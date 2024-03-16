@@ -1,0 +1,40 @@
+<@center><b><#selectbg_g>ENGLISH</#></b>
+
+<@center><b><#selectbg_g>RvTuning Kernel</#></b>
+
+<b><#selectbg_g>Some messages from me :</#></b></@>
+
+<@fill><q>
+RvTuning Kernel is made by Rve27
+u can support me on @rvtuning
+ 
+This kernel has Kernel Tuning installed on Spectrum
+or you can download Kernel Tuning 
+separately at @rvtuning
+
+<b>
+Telegram @rvtuning
+</b>
+
+Thanks. </q></@>
+
+<@center><b><#selectbg_g>INDONESIA</#></b>
+
+<@center><b><#selectbg_g>RvTuning Kernel</#></b>
+
+<b><#selectbg_g>Beberapa pesan dari saya :</#></b></@>
+
+<@fill><q>
+Kernel RvTuning dibuat oleh Rve27
+kamu dapat mendukungku di @rvtuning
+ 
+kernel ini sudah terpasang Kernel Tuning di Spectrum
+atau anda dapat mengunduh Kernel Tuning
+secara terpisah di @rvtuning
+
+<b>
+Telegram @rvtuning
+</b>
+
+Thanks. </q></@>
+

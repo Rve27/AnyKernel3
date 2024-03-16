@@ -1,0 +1,37 @@
+<@center><b><#selectbg_g>ENGLISH</#></b>
+
+<@center><b><#selectbg_g>RvTuning Kernel</#></b>
+
+<b><#selectbg_g>About Overclocked Kernel :</#></b></@>
+
+<@fill><q>
+<b>
+Overclocked Kernels actually is safe if u're using it 
+with carefully
+</b>
+
+<b>NOTE:
+* Recommended to use this kernel with Kernel Tuning. 
+  It will be a best option else your choice.
+</b>
+
+</q></@>
+
+<@center><b><#selectbg_g>INDONESIA</#></b>
+
+<@center><b><#selectbg_g>RvTuning Kernel</#></b>
+
+<b><#selectbg_g>Tentang Kernel yang diOverclock :</#></b></@>
+
+<@fill><q>
+<b>
+Kernel yang di-overclock sebenarnya aman
+jika Anda menggunakannya dengan hati-hati.
+</b>
+
+<b>NOTE:
+* Disarankan menggunakan kernel ini dengan Kernel Tuning, 
+  Ini akan menjadi opsi terbaik.
+</b>
+
+</q></@>
